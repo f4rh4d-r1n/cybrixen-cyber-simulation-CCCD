@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- TODO: add your CUX logo at assets/cux-logo.png -->
-<img src="assets/cux-logo.png" alt="CUX" width="140"/>
+<img width="150" height="130" alt="image" src="https://github.com/user-attachments/assets/3787658d-7c43-451f-adf8-2447bad4f2c3" />
 
-# 🛡️ Cybrixen Cyber Simulation
+
+# 🛡️ Cybrixen Certified Cyber Defender [CCCD]
 ### 8 missions · 1 office · 1 very busy security analyst
 
 ![Score](https://img.shields.io/badge/final%20score-83.8%20%2F%20100-7c3aed?style=for-the-badge)
 ![Missions](https://img.shields.io/badge/missions-8%20of%208%20done-22c55e?style=for-the-badge)
-![Sponsor](https://img.shields.io/badge/sponsor-Cybrixen-0ea5e9?style=for-the-badge)
+![From](https://img.shields.io/badge/from-Cybrixen-0ea5e9?style=for-the-badge)
 
 </div>
 
@@ -63,10 +64,9 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 
 | | |
 |---|---|
-| **Programme** | Cybrixen cyber simulation |
-| **Provider / sponsor** | [cybrixen.com](https://cybrixen.com) |
-| **Community** | CUX |
-| **Certificate** | See below 👇 |
+| **Programme** | Cybrixen Certified Cyber Defender |
+| **Provider /** | [cybrixen.com](https://cybrixen.com) |
+
 
 <!-- TODO: add certificate at assets/certificate.png, then uncomment
 <div align="center">
@@ -106,8 +106,6 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 
 ## 👤 Author
 
-**<!-- TODO: your name -->** · [GitHub](https://github.com/<!-- TODO: username -->)
+**<!-- TODO: your name -->**  Farhad Khan<!-- TODO: username -->
 
 ---
-
-<sub>Cybrixen and CUX names and logos belong to their respective owners. This is an unofficial personal portfolio of my own work. Scenario details are randomised on every attempt, so these write-ups explain methods rather than answer keys.</sub>
