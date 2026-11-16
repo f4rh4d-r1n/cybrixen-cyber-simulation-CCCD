@@ -31,12 +31,12 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 |:-:|---------|:-----:|----------|:-------:|
 | 1 | [📧 Phishing triage](01-phishing-triage.md) | **10 / 10** | `██████████` | 🟢 Perfect |
 | 2 | [🔐 Access review](02-access-review.md) | **4 / 10** | `████░░░░░░` | 🔴 Biggest lesson |
-| 3 | [🧹 Clean-desk walk](missions/03-clean-desk-walk.md) | **5.8 / 10** | `██████░░░░` | 🟡 Over-eager |
-| 4 | [🔥 Firewall hardening](missions/04-firewall-hardening.md) | **15 / 15** | `██████████` | 🟢 Perfect |
-| 5 | [🔎 SIEM investigation](missions/05-siem-investigation.md) | **14 / 15** | `█████████░` | 🟢 One slip |
-| 6 | [🐧 Endpoint forensics](missions/06-endpoint-forensics.md) | **15 / 15** | `██████████` | 🟢 Perfect |
-| 7 | [🧨 Ransomware response](missions/07-ransomware-response.md) | **10 / 15** | `██████░░░░` | 🟡 Learned the hard way |
-| 8 | [🎣 Executive phishing](missions/08-executive-phishing.md) | **10 / 10** | `██████████` | 🟢 Perfect |
+| 3 | [🧹 Clean-desk walk](03-clean-desk-walk.md) | **5.8 / 10** | `██████░░░░` | 🟡 Over-eager |
+| 4 | [🔥 Firewall hardening](04-firewall-hardening.md) | **15 / 15** | `██████████` | 🟢 Perfect |
+| 5 | [🔎 SIEM investigation](05-siem-investigation.md) | **14 / 15** | `█████████░` | 🟢 One slip |
+| 6 | [🐧 Endpoint forensics](06-endpoint-forensics.md) | **15 / 15** | `██████████` | 🟢 Perfect |
+| 7 | [🧨 Ransomware response](07-ransomware-response.md) | **10 / 15** | `██████░░░░` | 🟡 Learned the hard way |
+| 8 | [🎣 Executive phishing](08-executive-phishing.md) | **10 / 10** | `██████████` | 🟢 Perfect |
 | | **Total** | **83.8 / 100** | `████████░░` | |
 
 **Strongest areas:** Phishing triage · Firewall hardening · SIEM investigation · Endpoint forensics · Executive phishing
