@@ -29,7 +29,7 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 
 | # | Mission | Score | Progress | Verdict |
 |:-:|---------|:-----:|----------|:-------:|
-| 1 | [📧 Phishing triage](missions/01-phishing-triage.md) | **10 / 10** | `██████████` | 🟢 Perfect |
+| 1 | [📧 Phishing triage](01-phishing-triage.md) | **10 / 10** | `██████████` | 🟢 Perfect |
 | 2 | [🔐 Access review](missions/02-access-review.md) | **4 / 10** | `████░░░░░░` | 🔴 Biggest lesson |
 | 3 | [🧹 Clean-desk walk](missions/03-clean-desk-walk.md) | **5.8 / 10** | `██████░░░░` | 🟡 Over-eager |
 | 4 | [🔥 Firewall hardening](missions/04-firewall-hardening.md) | **15 / 15** | `██████████` | 🟢 Perfect |
