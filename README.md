@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- TODO: add your CUX logo at assets/cux-logo.png -->
-<img width="150" height="130" alt="image" src="https://github.com/user-attachments/assets/3787658d-7c43-451f-adf8-2447bad4f2c3" />
-
 
 # 🛡️ Cybrixen Certified Cyber Defender [CCCD]
 ### 8 missions · 1 office · 1 very busy security analyst
@@ -60,7 +58,7 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 
 ---
 
-## 🎓 Sponsor and certificate
+## 🎓 Organization and certificate
 
 | | |
 |---|---|
