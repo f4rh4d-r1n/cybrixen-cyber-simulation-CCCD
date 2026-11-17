@@ -83,25 +83,6 @@ I completed all **8 missions**. This repo is the evidence. Every mission has a w
 
 ---
 
-## 🗂️ Repo structure
-
-```
-.
-├── README.md
-├── assets/                  # CUX logo, certificate
-├── missions/                # one write-up per mission (01 to 08)
-└── screenshots/             # evidence, one folder per mission
-    ├── 01-phishing-triage/
-    ├── 02-access-review/
-    ├── 03-clean-desk-walk/
-    ├── 04-firewall-hardening/
-    ├── 05-siem-investigation/
-    ├── 06-endpoint-forensics/
-    ├── 07-ransomware-response/
-    ├── 08-executive-phishing/
-    └── results/             # final score and feedback pages
-```
-
 ## 👤 Author
 
 **<!-- TODO: your name -->**  Farhad Khan<!-- TODO: username -->
