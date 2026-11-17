@@ -40,5 +40,4 @@ Three alerts told a single story:
 - **Preserve before you wipe.** Evidence is how you find the way in.
 - Backup metadata (changed-file counts) can reveal when the encryption actually started.
 
-## 📸 Evidence
-<!-- add: screenshots/07-ransomware-response/edr-alerts.png, response-plan.png, backups.png, feedback.png -->
+---
