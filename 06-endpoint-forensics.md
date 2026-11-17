@@ -42,4 +42,18 @@ A Linux server was pegged at **100% CPU** and the payroll app was crawling. The 
 - Leave legitimate services (nginx, postgres) alone, because precision is part of the job.
 
 ## 📸 Evidence
-<!-- add: screenshots/06-endpoint-forensics/ticket.png, ps-aux.png, crontab.png, hash-check.png, chmod.png, feedback.png -->
+
+<img width="959" height="458" alt="Screenshot 2026-11-16 165755" src="https://github.com/user-attachments/assets/51030fc8-4327-4196-8c4b-de3ead26d4dc" />
+
+---
+
+<img width="722" height="273" alt="Screenshot 2026-11-16 165851" src="https://github.com/user-attachments/assets/7f0b06d0-ebad-46fb-8ee9-66fccc32dbe9" />
+
+---
+
+<img width="738" height="268" alt="Screenshot 2026-11-16 165902" src="https://github.com/user-attachments/assets/0b9aa7ac-6174-472c-b3ca-b3aa78da5369" />
+
+---
+
+<img width="953" height="449" alt="Screenshot 2026-11-16 170313" src="https://github.com/user-attachments/assets/845f04ee-7b2d-4c8b-b7eb-07b490ba17a4" />
+
