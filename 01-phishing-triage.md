@@ -25,5 +25,10 @@ All 8 messages classified correctly: genuine ones kept, phishing ones reported.
 - Not everything unusual is malicious. Marking real emails as safe matters just as much as catching fakes.
 - The decision stays editable until the end of the shift, so a second pass is worth it.
 
-## 📸 Evidence
-<!-- add: screenshots/01-phishing-triage/inbox.png, mission-card.png, feedback.png -->
+## 📸 Reception
+
+<img width="770" height="410" alt="reception" src="https://github.com/user-attachments/assets/031a1b16-29d2-4811-a069-547ac4d41baf" />
+
+---
+
+
