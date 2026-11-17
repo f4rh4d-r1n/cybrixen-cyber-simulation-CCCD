@@ -31,4 +31,6 @@ All five requirements passed live traffic tests.
 - Nothing is real until it's committed.
 
 ## 📸 Evidence
-<!-- add: screenshots/04-firewall-hardening/before.png, after.png, packet-tracer.png, feedback.png -->
+
+<img width="959" height="454" alt="Screenshot 2026-11-16 162530" src="https://github.com/user-attachments/assets/f9ec7c17-2854-4519-a316-6058cdac4574" />
+
