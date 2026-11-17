@@ -37,4 +37,9 @@ The clue I underweighted: lots of "unknown user" failures, one attempt per name,
 - Containment has two halves: **block the source** and **kill the compromised credential**.
 
 ## 📸 Evidence
-<!-- add: screenshots/05-siem-investigation/overview.png, failed-logins.png, ticket.png, feedback.png -->
+
+<img width="959" height="463" alt="Screenshot 2026-11-16 163318" src="https://github.com/user-attachments/assets/507d1a8f-744d-44fa-b0d3-989b733edd3d" />
+
+---
+
+
