@@ -32,4 +32,11 @@ Walk the office like an end-of-day security officer. Find the physical security 
 - When a secret has been exposed, removing it is not enough. It needs to be **rotated**.
 
 ## 📸 Evidence
-<!-- add: screenshots/03-clean-desk-walk/briefing.png, feedback.png -->
+
+<img width="770" height="407" alt="Screenshot 2026-11-15 224047" src="https://github.com/user-attachments/assets/d0e7dd01-f55e-4153-b755-deb66117daa9" />
+
+---
+
+<img width="620" height="401" alt="Screenshot 2026-11-16 170550" src="https://github.com/user-attachments/assets/2612c9df-83fa-471d-a7e0-974dc7a40513" />
+
+
