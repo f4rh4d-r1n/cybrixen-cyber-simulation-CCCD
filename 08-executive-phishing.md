@@ -28,5 +28,4 @@ All 6 messages classified correctly. 🎉
 - The same checklist works at every level: **urgency, authority, flattery, unexpected action**.
 - Practice from Mission 1 paid off: 10/10 on both inboxes.
 
-## 📸 Evidence
-<!-- add: screenshots/08-executive-phishing/inbox.png, feedback.png -->
+---
