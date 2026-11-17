@@ -39,4 +39,13 @@ HR sent a leavers memo. The task was to bring the directory in line with that me
 - 🛡️ Privileged accounts deserve a second look. A missing MFA on an admin is the worst gap in the directory.
 
 ## 📸 Evidence
-<!-- add: screenshots/02-access-review/memo.png, policy.png, directory.png, feedback.png -->
+
+<img width="545" height="334" alt="Screenshot 2026-11-16 154827" src="https://github.com/user-attachments/assets/a9921eea-a3b1-4c83-9f71-df98abc170a8" />
+
+---
+
+<img width="957" height="425" alt="Screenshot 2026-11-16 154745" src="https://github.com/user-attachments/assets/28eb68a7-1b9f-4660-9feb-b6bad00ed58f" />
+
+---
+
+
